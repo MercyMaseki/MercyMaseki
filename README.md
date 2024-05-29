@@ -1,6 +1,6 @@
 ## Hi am Mercy  👋 ☺️
 ***
-![abundance](city-of-gold-coast-KyDkR-VbkNc-unsplash)
+![abundance](city-of-gold-coast-KyDkR-VbkNc-unsplash.jpg)
 
 **MercyMaseki/MercyMaseki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
