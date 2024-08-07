@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 The past Six Months, I have been learning
-  Advanced Excel
-  Tableau
-  Power Bi
-  SQL
+- Advanced Excel
+- Tableau
+- Power Bi
+- SQL
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
