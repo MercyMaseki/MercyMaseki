@@ -6,8 +6,6 @@ Hello! I'm Mercy Maseki, a seasoned Data Analyst with over 20 years of experienc
 On my GitHub profile, you'll find a collection of repositories that showcase my work at the intersection of finance and data analytics. These projects reflect my commitment to continuous learning and solving real-world problems through data-driven solutions.
 I'm always eager to collaborate on projects that align with my expertise. If you're interested in working together or have questions about my work, feel free to reach out!
 
-![abundance](city-of-gold-coast-KyDkR-VbkNc-unsplash.jpg)
-
 I’m currently working on various projects using;
 
 - Advanced Excel for Data Analysis
